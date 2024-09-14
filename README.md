@@ -1,9 +1,5 @@
 # Iris-flower-project
 A machine learning classification model that predicts the species of an Iris flower based on its physical characteristics, trained on the classic Iris dataset.
-# Iris flower classification
-Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png
-![Uploading image.png…]()
-
 # Dataset
 The Iris dataset, introduced by Ronald Fisher in 1936, is a widely used dataset in machine learning. It consists of 150 samples from three species of Iris flowers (Iris setosa, Iris versicolor, and Iris virginica). Each sample is described by 4 features:
 
