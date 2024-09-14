@@ -29,13 +29,6 @@ Tools and Technologies: Python, scikit-learn
 
 User Interface: Graphical User Interface (GUI) built with Tkinter
 
-## Results:
-
-Sl. No.	Classification Model	Accuracy (%)	Precision (%)	Recall (%)
-1	Decision Tree tuned	95.33	95.56	95.56
-2	Random Forest	97.33	97.78	97.78
-3	Naive Bayes	94.00	94.28	94.28
-4	Logistic Regression	98.00	98.00	98.00
 ## Conclusion:
 
 The project demonstrates the end-to-end process of building a machine learning model for Iris flower classification. It includes data preprocessing, exploratory data analysis, model training, and model deployment using Streamlit. The deployed model allows users to input sepal and petal measurements and receive predictions of the Iris flower species. The results show that Logistic Regression outperforms the other models, achieving the highest accuracy, precision, and recall.
