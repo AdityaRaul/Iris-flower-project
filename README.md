@@ -2,8 +2,7 @@
 A machine learning classification model that predicts the species of an Iris flower based on its physical characteristics, trained on the classic Iris dataset
 # Iris flower classification
 ![image](https://github.com/user-attachments/assets/c3446cd9-bd56-4e4d-b5b7-0b3a43a8709c)
-![image](https://github.com/user-attachments/assets/00036a42-09e0-4ba8-835c-c58e2ce8408a)
-![image](https://github.com/user-attachments/assets/09fcb05f-f85e-4376-87df-92454641006b)
+
 
 
 
