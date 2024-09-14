@@ -4,7 +4,9 @@ A machine learning classification model that predicts the species of an Iris flo
 ![image](https://github.com/user-attachments/assets/c3446cd9-bd56-4e4d-b5b7-0b3a43a8709c)
 
 
+# Objective:
 
+The objective of this project is to develop a machine learning model capable of learning from the measurements of iris flowers and accurately classifying them into their respective species. The model's primary goal is to automate the classification process based on the distinct characteristics of each iris species.
 
 # Dataset
 The Iris dataset, introduced by Ronald Fisher in 1936, is a widely used dataset in machine learning. It consists of 150 samples from three species of Iris flowers (Iris setosa, Iris versicolor, and Iris virginica). Each sample is described by 4 features:
@@ -14,8 +16,7 @@ Sepal width (cm)
 Petal length (cm)
 Petal width (cm)
 # Model
-Model
-The model is a [insert type of model, e.g. neural network, decision tree, etc.]. It is trained on the Iris dataset to predict the species of an Iris flower based on its physical characteristics.
+The model is trained on the Iris dataset to predict the species of an Iris flower based on its physical characteristics.
 # Problem Statement
  Classify Iris flowers into their respective species (Iris setosa, Iris versicolor, and Iris virginica) based on their physical characteristics, such as sepal and petal length and width.
 # Project Summary: 
