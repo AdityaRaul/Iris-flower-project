@@ -15,8 +15,8 @@ The model is a [insert type of model, e.g. neural network, decision tree, etc.].
 # Project Summary: 
 This project develops a machine learning classification model that accurately predicts the species of an Iris flower based on its physical characteristics, using the classic Iris dataset, and provides a user-friendly interface for inputting flower characteristics to obtain species predictions.
 # Key Project Details:
-Dataset: Classic Iris dataset (150 samples, 4 features, 3 classes)
-Features: Sepal length, sepal width, petal length, petal width
+**Dataset: Classic Iris dataset (150 samples, 4 features, 3 classes)**
+**Features: Sepal length, sepal width, petal length, petal width**
 Target Variable: Species of Iris flower (Iris setosa, Iris versicolor, Iris virginica)
 Machine Learning Algorithm: K-Nearest Neighbors (KNN), Logistic Regression, Naive Bayes, Decision Tree
 Model Evaluation Metrics: Accuracy
