@@ -40,3 +40,5 @@ User Interface: Graphical User Interface (GUI) built with Tkinter
 
 The project demonstrates the end-to-end process of building a machine learning model for Iris flower classification. It includes data preprocessing, exploratory data analysis, model training, and model deployment using Streamlit. The deployed model allows users to input sepal and petal measurements and receive predictions of the Iris flower species. The results show that Logistic Regression outperforms the other models, achieving the highest accuracy, precision, and recall.
 
+https://github.com/user-attachments/assets/01849e34-733e-497f-a5be-af2522a6f9ae
+
